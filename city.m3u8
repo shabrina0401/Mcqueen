@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=2500000,NAME=1080p,RESOLUTION=1920x1080
-https://www.dmzhibo.com/m3u8.php?url=https://play.aomeila.cn/live/ballbar_7580.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=4292608,CODECS="avc1.640028,mp4a.40.2",RESOLUTION=1920x1080
+https://dmzhibo.com/m3u8.php?url=https://play.aomeila.cn/live/ballbar_16140.m3u8
